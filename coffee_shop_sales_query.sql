@@ -28,10 +28,12 @@ SET transaction_date = STR_TO_DATE(transaction_date, '%Y-%m-%d'); -- Adjust the 
   Alter table Coffee_Shop_Sales.coffee_shop_sales
   modify column unit_price double;
   /*KPIs Requirements   Total Sales Analysis*/
+
   /*1.1- caculate the total sales for each respective month */
   SELECT sum(unit_price*transaction_qty) as Total_sales,month(transaction_date) as month
   FROM Coffee_Shop_Sales.coffee_shop_sales
   group by  month(transaction_date);
+
   /*1.2 Determine the month-on-month increase or decrease in sales */
   select month(transaction_date) as month, sum(unit_price*transaction_qty) as Tottal_sales,
   round((sum(unit_price*transaction_qty)-lag(sum(unit_price*transaction_qty),1)over (order by month(transaction_date)))/lag(sum(unit_price*transaction_qty),1)over (order by month(transaction_date))* 100 ,2)as MOM_increase
@@ -51,12 +53,14 @@ SET transaction_date = STR_TO_DATE(transaction_date, '%Y-%m-%d'); -- Adjust the 
  select month(transaction_date)as month,count(transaction_id)as Total_orders
  from coffee_Shop_Sales.coffee_shop_sales
  group by month(transaction_date);
+
 /*2.2 Determine the month-on-month increase or decrease in NO.of orders */
 select month(transaction_date) as month,count(transaction_id)as total_sales,
 round((count(transaction_id)- lag(count(transaction_id),1)over (order by month(transaction_date)))/lag(count(transaction_id),1)over (order by month(transaction_date))*100 ,2)as diff_sales
 from Coffee_Shop_Sales.coffee_shop_sales
 group by month(transaction_date) 
 order by month(transaction_date) ;
+
  /*2.3 Calculate the difference in No. of orders between the selected month and previous month*/
 select month(transaction_date) as month,count(transaction_id)as total_sales,
 round((count(transaction_id)- lag(count(transaction_id),1)over (order by month(transaction_date)))/lag(count(transaction_id),1)over (order by month(transaction_date))*100 ,2)as diff_sales
@@ -64,10 +68,12 @@ from Coffee_Shop_Sales.coffee_shop_sales
 where month(transaction_date) in (4,5)
 group by month(transaction_date) 
 order by month(transaction_date);
+
 /* 3.1 caculate the total nqauntity sold for each respective month*/
 select sum(transaction_qty)as Total_qty
 from Coffee_Shop_Sales.coffee_shop_sales
 group by month(transaction_date);
+
 /*3.2 Determine the month-on-month increase or decrease in total quantity sold */
 select month(transaction_date) as month,sum(transaction_qty)as Total_qty,
 (sum(transaction_qty)-lag(sum(transaction_qty),1)
@@ -76,6 +82,7 @@ over(order by month(transaction_date))*100 as diff
 from Coffee_Shop_Sales.coffee_shop_sales
 group by month(transaction_date) 
 order by month(transaction_date);
+
 /*3.3 Calculate the difference in the total quantity sold between the selected month and previous month*/
 select month(transaction_date) as month,sum(transaction_qty)as Total_qty,
 (sum(transaction_qty)-lag(sum(transaction_qty),1)
