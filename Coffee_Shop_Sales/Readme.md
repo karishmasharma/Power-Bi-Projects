@@ -31,5 +31,6 @@ Problem-Solving: Gained insights from every obstacle faced, turning them into le
 
 The visual shared include: 
 
+https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Coffee_Shop_Sales/Screenshot%202025-01-26%20at%2021.07.19.png
 
 Explore the Dashboard: https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Coffee_Shop_Sales.pbix
