@@ -1,4 +1,4 @@
-#Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard :coffee:
 
 Welcome to my first Power BI project – the Coffee Shop Sales Dashboard! This project marks an exciting journey where I explored the power of data visualization and analysis, 
 transforming raw data into an informative and visually appealing dashboard.
