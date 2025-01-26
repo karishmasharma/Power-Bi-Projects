@@ -29,7 +29,7 @@ Problem-Solving: Gained insights from every obstacle faced, turning them into le
 
 🎨 Dashboard Snapshot
 
-The visual shared include:
+The visual shared include: 
 
 
-Explore the Dashboard: 
+Explore the Dashboard: https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Coffee_Shop_Sales.pbix
