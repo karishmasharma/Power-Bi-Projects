@@ -34,13 +34,20 @@ The project includes four dashboards:
 ### 1. Monthly View
 
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
+
 Charts:
 Patient Admission Status (Admitted vs. Non-Admitted)
+
 Patient Age Distribution (Grouped by 10-year intervals)
+
 Department Referrals (Trends across different departments)
+
 Timeliness (Percentage of patients seen within 30 minutes)
+
 Gender Analysis (Patient distribution by gender)
+
 Racial Demographics (Patient data by race)
+
 Time Analysis (Patient volume by day and hour)
 
 ### 2. Consolidated View
