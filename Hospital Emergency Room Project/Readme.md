@@ -50,6 +50,8 @@ Racial Demographics (Patient data by race)
 
 Time Analysis (Patient volume by day and hour)
 
+link will be available here :
+
 ### 2. Consolidated View
 
 Objective: Provide a holistic summary of hospital performance for a selected date range.
