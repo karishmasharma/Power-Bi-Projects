@@ -50,7 +50,8 @@ Racial Demographics (Patient data by race)
 
 Time Analysis (Patient volume by day and hour)
 
-link will be available here :
+link will be available here :[
+](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Hospital%20Emergency%20Room%20Project/Hospital%20Emergency%20Room%20Dashboard.pbix)
 
 ### 2. Consolidated View
 
