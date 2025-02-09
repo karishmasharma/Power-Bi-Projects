@@ -29,8 +29,8 @@ Key Visuals:
 * Racial Demographics: Analyzes patient demographics by race.
 * Time Analysis: Tracks patient volume by day and hour.
 
-[📥 Download the Power BI Dashboard (.pbix)](https://github.com/your-repo-name/blob/main/dashboard.pbix?raw=true)
-  
+[📥 Download the Power BI Dashboard (.pbix)](https://github.com/karishmasharma/Power-Bi-Projects/commit/668664fff2492cf2f011bd99082001b79d5ca168)  
+
 2️⃣ Consolidated View Dashboard
 Objective: Provides a high-level summary of hospital performance over a selected date range.
 
