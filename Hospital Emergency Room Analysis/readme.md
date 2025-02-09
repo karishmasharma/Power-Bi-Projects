@@ -31,16 +31,24 @@ Key Visuals:
 
 [📥 Download the Power BI Dashboard (.pbix)](https://github.com/karishmasharma/Power-Bi-Projects/commit/668664fff2492cf2f011bd99082001b79d5ca168)  
 
+[Dashboard view](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Hospital%20Emergency%20Room%20Analysis/screentshot%20of%20montly%20veiw.png)
+
+
 2️⃣ Consolidated View Dashboard
 Objective: Provides a high-level summary of hospital performance over a selected date range.
 
 Key Visuals:
 
-Aggregated metrics for patient admissions, wait times, and satisfaction scores.
-Trend analysis for selected time periods (daily, weekly, or custom date ranges).
-Departmental breakdowns showing referrals and ER traffic patterns.
-Identification of peak patient hours and days.
-Comparative analysis to detect performance shifts over different time frames.
+* Aggregated metrics for patient admissions, wait times, and satisfaction scores.
+* Trend analysis for selected time periods (daily, weekly, or custom date ranges).
+* Departmental breakdowns showing referrals and ER traffic patterns.
+* Identification of peak patient hours and days.
+* Comparative analysis to detect performance shifts over different time frames.
+  
+[📥 Download the Power BI Dashboard (.pbix)](https://github.com/karishmasharma/Power-Bi-Projects/commit/668664fff2492cf2f011bd99082001b79d5ca168)
+[Dashboard view]
+
+
 3️⃣ Patient Details Dashboard
 Objective: Provides granular insights into patient-level data to support detailed analysis and troubleshooting.
 
