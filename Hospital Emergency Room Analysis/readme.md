@@ -46,8 +46,7 @@ Key Visuals:
 * Comparative analysis to detect performance shifts over different time frames.
   
 [📥 Download the Power BI Dashboard (.pbix)](https://github.com/karishmasharma/Power-Bi-Projects/commit/668664fff2492cf2f011bd99082001b79d5ca168)
-[Dashboard view]
-
+[Dashboard view](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Hospital%20Emergency%20Room%20Analysis/screenshot%20of%20consolidate%20view.png)
 
 3️⃣ Patient Details Dashboard
 Objective: Provides granular insights into patient-level data to support detailed analysis and troubleshooting.
@@ -66,6 +65,8 @@ Department Referral
 Admission Status
 Ability to filter and analyze specific patient records for in-depth insights.
 Facilitates case-specific analysis to detect trends in patient care and referrals.
+
+
 4️⃣ Key Takeaways Dashboard
 Objective: Summarizes insights and actionable recommendations based on the data collected from all dashboards.
 
@@ -77,37 +78,33 @@ Operational insights for optimizing emergency room efficiency.
 Recommendations to improve patient experience and hospital workflow.
 Identification of resource allocation needs in high-traffic departments.
 
-
-
-
-
-
 🛠️ Steps in Project Development
 
-Requirement Gathering: Understanding business needs and defining KPIs.
-Data Walkthrough: Reviewing available data sources.
-Data Connection & Cleaning: Ensuring data quality and consistency.
-Data Modeling: Structuring data for efficient reporting.
-Data Processing & DAX Calculations: Creating calculated metrics using DAX (Data Analysis Expressions).
-Dashboard Development: Designing interactive reports in Power BI.
-Insights Generation: Extracting meaningful insights to improve ER operations.
+* Requirement Gathering: Understanding business needs and defining KPIs.
+* Data Walkthrough: Reviewing available data sources.
+* Data Connection & Cleaning: Ensuring data quality and consistency.
+* Data Modeling: Structuring data for efficient reporting.
+* Data Processing & DAX Calculations: Creating calculated metrics using DAX (Data Analysis Expressions).
+* Dashboard Development: Designing interactive reports in Power BI.
+* Insights Generation: Extracting meaningful insights to improve ER operations.
+
+  
 📌 Technologies Used
 
 Power BI
 DAX (Data Analysis Expressions)
-SQL (for data modeling, if applicable)
-Excel / CSV (for data import, if applicable)
-📽️ Demo
+Excel / CSV (for data import)
 
-A walkthrough of the Power BI Dashboard is available in the video link (Mention link if available).
+
 
 📥 Installation & Usage
 
-Clone this repository:
-git clone https://github.com/yourusername/hospital-emergency-room-dashboard.git
+Clone this repository
+git clone This repository
 Open the Power BI file (.pbix) in Power BI Desktop.
 Connect to the data source (if applicable).
 Explore the dashboards and insights.
+
 👩‍⚕️👨‍⚕️ Who Can Use This?
 
 Hospital Administrators: For operational decision-making.
