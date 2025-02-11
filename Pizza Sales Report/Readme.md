@@ -5,7 +5,7 @@
 
 This project aims to analyze and visualize pizza sales data using Power BI. It provides insights into key performance indicators (KPIs) and various sales trends to help improve business decision-making.
 
-The SQL queries for extracting and processing data have already been completed and uploaded in the  My SQL Repository. This repository focuses on building an interactive Power BI dashboard based on that processed data.
+The SQL queries for extracting and processing data have already been completed and uploaded in the [My SQL Project Repository]. This repository focuses on building an interactive Power BI dashboard based on that processed data.
 
 🎯 Key Objectives
 
