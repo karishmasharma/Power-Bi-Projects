@@ -50,6 +50,11 @@ The dashboard includes the following charts:
 
 7️⃣ Bottom 5 Worst Sellers by Revenue, Quantity, and Orders (Bar Chart) – Identifies underperforming pizzas
 
+
+## Power BI Dashboard Preview
+
+[Dashboard Preview](https://github.com/karishmasharma/Power-Bi-Projects/commit/adbc5f96cf0d30692ed3065a334f5f52b2d4be14)
+
 🛠️ Tools & Technologies
 
 Power BI – Data visualization
