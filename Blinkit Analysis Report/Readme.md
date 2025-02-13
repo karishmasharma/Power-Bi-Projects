@@ -69,6 +69,11 @@ Sales by Outlet Location - Maps sales geographically (Funnel Map).
 
 All Metrics by Outlet Type - Presents a comprehensive view of key metrics broken down by outlet type (Matrix Card).
 
+[Click Here to view Complete Dashboard](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Blinkit%20Analysis%20Report/Blinkit%20%20Analysis%20Report.pbix)
+
+
+
+
 ## 📂 Technologies Used
 
 Power BI - For data visualization and reporting.
