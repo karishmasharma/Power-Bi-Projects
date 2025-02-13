@@ -72,6 +72,8 @@ All Metrics by Outlet Type - Presents a comprehensive view of key metrics broken
 [Click Here to view Complete Dashboard](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Blinkit%20Analysis%20Report/Blinkit%20%20Analysis%20Report.pbix)
 
 
+[Click here for Screenshot](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Blinkit%20Analysis%20Report/Screenshot%20Blinkit.png)
+
 
 
 ## 📂 Technologies Used
