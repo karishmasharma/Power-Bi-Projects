@@ -101,7 +101,6 @@ RETURN
 📦 Car-Sales-Dashboard
  ┣ 📂 Data
  ┃ ┣ 📜 sales_data.csv
- ┃ ┗ 📜 dealer_data.csv
  ┣ 📂 Reports
  ┃ ┗ 📜 Car_Sales_Dashboard.pbix
  ┣ 📜 README.md
