@@ -10,7 +10,8 @@ Our company operates as a car dealership, selling various car models. To enhance
 The primary goal of this project is to design and implement a comprehensive Car Sales Dashboard that provides real-time insights into sales trends, average prices, and other crucial performance metrics. This will help in monitoring progress, identifying opportunities, and optimizing sales strategies.
 
 
-[click here to view Dashbords](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Car%20Sales%20Report/Dashboard%20Overview.png)
+[click here to view Dashbord 1 ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Car%20Sales%20Report/Dashboard%20Overview.png)
+[click here to view Dashbord 2 ]
 ## 🚨 Problem Statements & Requirements
 
 ### 📊 KPI Requirements
