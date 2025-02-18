@@ -11,7 +11,10 @@ The primary goal of this project is to design and implement a comprehensive Car 
 
 
 [click here to view Dashbord 1 ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Car%20Sales%20Report/Dashboard%20Overview.png)
-[click here to view Dashbord 2 ]
+
+[click here to view Dashbord 2 ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Car%20Sales%20Report/Dashboard%202%20.png)
+
+
 ## 🚨 Problem Statements & Requirements
 
 ### 📊 KPI Requirements
