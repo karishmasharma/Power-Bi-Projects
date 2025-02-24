@@ -35,8 +35,7 @@ Simulate budget changes and see impacts.
 ## Data Sources
 
 📂 Files Included:
-
-
+[Click Here to View Dashoard](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Employee_details/Screenshot%202025-02-24%20011122.png)
 ### How to Use
 
 Prepare Data: Run the SQL query to combine data.
