@@ -27,7 +27,15 @@ Comprehensive Analytics: Covers all relevant financial and operational metrics.
 Dynamic Visuals: KPIs and trends displayed using charts, tables, and graphs.
 
 [Click here to vie different mode of dashboards-](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Healthcare_Analytics/Lighter%20Mode%20Dashboard.png) 
-[With Filters Dashboard](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Healthcare_Analytics/With%20filter.png)## 🛠️ Tools & Technologies
+
+[With Filters Dashboard](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Healthcare_Analytics/With%20filter.png)
+
+[
+Dashboard in Darker Mode ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Healthcare_Analytics/Darker%20Mode%20Dashboard.png)
+
+
+
+## 🛠️ Tools & Technologies
 
 Power BI, Power Query, DAX, PowerPoint
 
