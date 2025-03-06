@@ -27,21 +27,25 @@ Displays album, artist, and track details.
 Supports Drill-Through & Hierarchical Navigation for deeper exploration.
 Allows exporting drilled-through data to CSV.🛠️ Steps in the Project
 
-Requirement Gathering – Understanding business needs.
-Data Walkthrough – Reviewing the dataset.
-Data Connection – Connecting data sources to Power BI.
-Data Cleaning & Quality Check – Ensuring data accuracy.
-Data Modeling & Processing – Structuring data for analysis.
-DAX Calculations – Creating custom metrics.
-Dashboard Layout & Charts Development – Designing interactive visuals.
-Report Development & Formatting – Refining visuals for better user experience.
-Insights Generation – Extracting meaningful business insights.
-🚀 Technologies Used
+## Requirement Gathering – Understanding business needs.
+
+1. Data Walkthrough – Reviewing the dataset.
+2. Data Connection – Connecting data sources to Power BI.
+3. Data Cleaning & Quality Check – Ensuring data accuracy.
+4. Data Modeling & Processing – Structuring data for analysis.
+5. DAX Calculations – Creating custom metrics.
+6. Dashboard Layout & Charts Development – Designing interactive visuals.
+7. Report Development & Formatting – Refining visuals for better user experience.
+8. Insights Generation – Extracting meaningful business insights.
+
+
+## 🚀 Technologies Used
 
 Power BI – Dashboard & visualization
 DAX (Data Analysis Expressions) – Custom calculations
 SQL (if applicable) – Data transformation
-📂 How to Use
+
+## 📂 How to Use
 
 Open the Power BI file and refresh the data connection.
 Interact with the visualizations to explore insights.
