@@ -39,6 +39,10 @@ Allows exporting drilled-through data to CSV.🛠️ Steps in the Project
 8. Insights Generation – Extracting meaningful business insights.
 
 
+ [Click here to view Dashboard ](https://github.com/karishmasharma/Power-Bi-Projects/commit/958727b9d67b963d5a144832f4cd0b2f076e2e3f)
+
+
+ 
 ## 🚀 Technologies Used
 
 Power BI – Dashboard & visualization
