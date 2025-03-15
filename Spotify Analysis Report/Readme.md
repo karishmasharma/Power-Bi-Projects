@@ -41,6 +41,7 @@ Allows exporting drilled-through data to CSV.🛠️ Steps in the Project
 
  [Click here to view Dashboard ](https://github.com/karishmasharma/Power-Bi-Projects/commit/958727b9d67b963d5a144832f4cd0b2f076e2e3f)
 
+ [Click Here to view second part of Dashboard (Listening Frequency vs Days )](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Spotify%20Analysis%20Report/dashboard2.png)
 
  
 ## 🚀 Technologies Used
