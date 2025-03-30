@@ -11,6 +11,9 @@ A dynamic switch allowing users to view either Sales Amount or Units Sold using 
 
 DataTable("Name", STRING, "Type", STRING, {{"1", "Sales"}, {"2", "Units"}})
 
+
+[to check the amazon site dashbord click here ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Dashboard_overview.png)
+
 ## Key Metrics
 
 Total Sales (Sale_Ammount)
