@@ -14,6 +14,7 @@ DataTable("Name", STRING, "Type", STRING, {{"1", "Sales"}, {"2", "Units"}})
 
 [to check the amazon site dashbord click here ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Dashboard_overview.png)
 
+[To see the complete products of amazon click here](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Product%20Screenshot%20.png)
 ## Key Metrics
 
 Total Sales (Sale_Ammount)
