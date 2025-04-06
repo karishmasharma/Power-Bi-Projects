@@ -15,15 +15,23 @@ DataTable("Name", STRING, "Type", STRING, {{"1", "Sales"}, {"2", "Units"}})
 [to check the amazon site dashbord click here ](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Dashboard_overview.png)
 
 [To see the complete products of amazon click here](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Product%20Screenshot%20.png)
+
 ## Key Metrics
 
-Total Sales (Sale_Ammount)
-Units Sold (Sale_Units)
-Number of Orders Delivered (Order_Counts)
-Number of Returned Units (Return_Units)
-Total Sellers (Seller Count)
-Number of Reviews (Reviews)
-Category-Wise & Overall Analysis
+**•** Total Sales (Sale_Ammount)
+
+**•** Units Sold (Sale_Units)
+
+**•** Number of Orders Delivered (Order_Counts)
+
+**•** Number of Returned Units (Return_Units)
+
+**•** Total Sellers (Seller Count)
+
+**•** Number of Reviews (Reviews)
+
+**•** Category-Wise & Overall Analysis
+
 Includes measures for filtered and unfiltered analysis across categories using DAX measures like:
 CALCULATE([Sale_Units], ALL('amazon-fashion'[Category]))
 
