@@ -16,8 +16,7 @@ DataTable("Name", STRING, "Type", STRING, {{"1", "Sales"}, {"2", "Units"}})
 
 [To see the complete products of amazon click here](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Product%20Screenshot%20.png)
 
-another windwow to check the products details to check click here and still under consideration [
-](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Productview%20screenshot.png)
+[another windwow to check the products details to check click here and still under consideration](https://github.com/karishmasharma/Power-Bi-Projects/blob/main/Amazon%20Analysis/Productview%20screenshot.png)
 
 ## Key Metrics
 
